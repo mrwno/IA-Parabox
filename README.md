@@ -7,8 +7,8 @@ Projet de jeu réalisé par Ziad ACHACH, Marwane OUARET, Talubna EL MAOULOUD, Br
 Télécharger les fichier du jeu et déplacez-vous dans le dossier à l'aide des commandes ci-dessous :
 
 ```
-git clone https://gitlab.sorbonne-paris-nord.fr/ia_parabox/ia_parabox
-cd ./ia_parabox
+git clone [https://gitlab.sorbonne-paris-nord.fr/ia_parabox/ia_parabox](https://github.com/mrwno/IA-Parabox)
+cd ./IA-Parabox
 ```
 
 
