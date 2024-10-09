@@ -2,6 +2,15 @@
 
 Projet de jeu réalisé par Ziad ACHACH, Marwane OUARET, Talubna EL MAOULOUD, Brian ABOU KHALIL et Ali BHATTI.
 
+\[
+v(P) =
+\begin{cases}
+\left( \max_{s_i \in S \text{ et } s_i < 0} |s_i| \right) + 1, & \text{si } \exists s_i < 0, \\
+-\left( \max_{s_i \in S \text{ et } s_i \geq 0} s_i \right) - 1, & \text{sinon}.
+\end{cases}
+\]
+
+
 ## Télechargement du jeu
 
 Télécharger les fichier du jeu et déplacez-vous dans le dossier à l'aide des commandes ci-dessous :
