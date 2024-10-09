@@ -2,10 +2,6 @@
 
 Projet de jeu réalisé par Ziad ACHACH, Marwane OUARET, Talubna EL MAOULOUD, Brian ABOU KHALIL et Ali BHATTI.
 
-```math
-\forall k \in 0<k<i+1; (m-k, n, i-k , j) 
-```
-
 ## Télechargement du jeu
 
 Télécharger les fichier du jeu et déplacez-vous dans le dossier à l'aide des commandes ci-dessous :
