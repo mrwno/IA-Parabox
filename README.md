@@ -2,6 +2,8 @@
 
 Projet de jeu réalisé par Ziad ACHACH, Marwane OUARET, Talubna EL MAOULOUD, Brian ABOU KHALIL et Ali BHATTI.
 
+$$ \forall x \in X $$
+
 ## Télechargement du jeu
 
 Télécharger les fichier du jeu et déplacez-vous dans le dossier à l'aide des commandes ci-dessous :
