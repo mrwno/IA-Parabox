@@ -2,7 +2,9 @@
 
 Projet de jeu réalisé par Ziad ACHACH, Marwane OUARET, Talubna EL MAOULOUD, Brian ABOU KHALIL et Ali BHATTI.
 
-$$ \forall x \in X $$
+```math
+\forall k \in 0<k<i+1; (m-k, n, i-k , j) 
+```
 
 ## Télechargement du jeu
 
