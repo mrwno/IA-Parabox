@@ -1,7 +1,7 @@
 # IA_Parabox
 
 Projet de jeu réalisé par Ziad ACHACH, Marwane OUARET, Talubna EL MAOULOUD, Brian ABOU KHALIL et Ali BHATTI.
-
+$$
 \[
 v(P) =
 \begin{cases}
@@ -9,7 +9,7 @@ v(P) =
 -\left( \max_{s_i \in S \text{ et } s_i \geq 0} s_i \right) - 1, & \text{sinon}.
 \end{cases}
 \]
-
+$$
 
 ## Télechargement du jeu
 
